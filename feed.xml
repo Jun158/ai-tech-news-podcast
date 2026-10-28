@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:atom="http://www.w3.org/2005/Atom">
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AI &amp; Tech News Podcast</title>
     <link>https://jun158.github.io/ai-tech-news-podcast/</link>
@@ -25,6 +26,8 @@
     <itunes:type>episodic</itunes:type>
     <item>
       <title>2026年10月28日号｜専門家の判断はAIに寄る、薬づくりと政府に広がるAI</title>
+      <link>https://jun158.github.io/ai-tech-news-podcast/</link>
+      <itunes:author>AI &amp; Tech News Podcast</itunes:author>
       <description>・Anthropicの実験：統計分析の専門家50人は、AIエージェントの「寄せ」（コイン投げで決まった方向）に86%の割合で同調し、77%がエージェントの言い回しを自分の理由として使った
 ・Anthropicの創薬支援：6組織との共同研究、抗体デザイン約35,000件、書類点検の時間89%減、1人会社Mithrilの買収
 ・Anthropic×米国一般調達庁（GSA）：政府機関向けにClaudeを40%引き、推定10億ドルの節約、約500機関が利用中
@@ -34,8 +37,17 @@
 - https://www.anthropic.com/research/early-progress-drug-development
 - https://www.anthropic.com/news/expanding-partnership-gsa
 トピックの発見にはTechmeme（https://techmeme.com）を利用しました。</description>
-      <enclosure url="https://github.com/Jun158/ai-tech-news-podcast/releases/download/ep-20261028/20261028-ep1.mp3" length="4118437" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://github.com/Jun158/ai-tech-news-podcast/releases/download/ep-20261028/20261028-ep1.mp3</guid>
+      <content:encoded><![CDATA[・Anthropicの実験：統計分析の専門家50人は、AIエージェントの「寄せ」（コイン投げで決まった方向）に86%の割合で同調し、77%がエージェントの言い回しを自分の理由として使った<br>
+・Anthropicの創薬支援：6組織との共同研究、抗体デザイン約35,000件、書類点検の時間89%減、1人会社Mithrilの買収<br>
+・Anthropic×米国一般調達庁（GSA）：政府機関向けにClaudeを40%引き、推定10億ドルの節約、約500機関が利用中<br>
+<br>
+出典（一次情報）：<br>
+- <a href="https://www.anthropic.com/research/agents-judgment-calls">https://www.anthropic.com/research/agents-judgment-calls</a><br>
+- <a href="https://www.anthropic.com/research/early-progress-drug-development">https://www.anthropic.com/research/early-progress-drug-development</a><br>
+- <a href="https://www.anthropic.com/news/expanding-partnership-gsa">https://www.anthropic.com/news/expanding-partnership-gsa</a><br>
+トピックの発見にはTechmeme（https://techmeme.com）を利用しました。]]></content:encoded>
+      <enclosure url="https://jun158.github.io/ai-tech-news-podcast/episodes/20261028-ep1.mp3" length="4118437" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://jun158.github.io/ai-tech-news-podcast/episodes/20261028-ep1.mp3</guid>
       <pubDate>Wed, 28 Oct 2026 11:23:00 GMT</pubDate>
       <itunes:duration>514</itunes:duration>
       <itunes:explicit>false</itunes:explicit>

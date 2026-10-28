@@ -25,6 +25,35 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>2026年10月28日号｜中国のAIチップが黒字化、密輸チップの押収、家に入る新しいAlexa</title>
+      <link>https://jun158.github.io/ai-tech-news-podcast/</link>
+      <itunes:author>AI &amp; Tech News Podcast</itunes:author>
+      <description>・中国のGPUメーカー、ムーア・スレッズの7〜9月売上は前年の約19倍で、初の四半期黒字。研究開発に売上の約4割を投じ、JD.comと10万個級の計算設備づくりも進む
+・マレーシア税関がAIチップ搭載サーバー30台（約18億円分）を押収。「電子部品」と偽って経由地にする密輸の手口で、同じ組織がらみは今年5件目
+・Amazonが新しいEchoを発表。Echo Show 16の目玉は、家電の場所を地図で示す「Alexa Home Map」。カメラなしの目覚まし時計Echo Timeも登場
+
+出典：
+- ムーア・スレッズの四半期決算（Bloomberg報道）https://www.techmeme.com/261028/p21#a261028p21
+- Reuters（マレーシア税関の発表会見の報道）https://www.reuters.com/world/china/ai-chips-worth-121-million-seized-malaysia-airport-customs-authority-says-2026-10-28/
+- Amazon公式発表 https://www.aboutamazon.com/news/devices/new-alexa-devices-2026
+トピックの発見にはTechmeme（https://techmeme.com）を利用しました。</description>
+      <content:encoded><![CDATA[・中国のGPUメーカー、ムーア・スレッズの7〜9月売上は前年の約19倍で、初の四半期黒字。研究開発に売上の約4割を投じ、JD.comと10万個級の計算設備づくりも進む<br>
+・マレーシア税関がAIチップ搭載サーバー30台（約18億円分）を押収。「電子部品」と偽って経由地にする密輸の手口で、同じ組織がらみは今年5件目<br>
+・Amazonが新しいEchoを発表。Echo Show 16の目玉は、家電の場所を地図で示す「Alexa Home Map」。カメラなしの目覚まし時計Echo Timeも登場<br>
+<br>
+出典：<br>
+- ムーア・スレッズの四半期決算（Bloomberg報道）<a href="https://www.techmeme.com/261028/p21#a261028p21">https://www.techmeme.com/261028/p21#a261028p21</a><br>
+- Reuters（マレーシア税関の発表会見の報道）<a href="https://www.reuters.com/world/china/ai-chips-worth-121-million-seized-malaysia-airport-customs-authority-says-2026-10-28/">https://www.reuters.com/world/china/ai-chips-worth-121-million-seized-malaysia-airport-customs-authority-says-2026-10-28/</a><br>
+- Amazon公式発表 <a href="https://www.aboutamazon.com/news/devices/new-alexa-devices-2026">https://www.aboutamazon.com/news/devices/new-alexa-devices-2026</a><br>
+トピックの発見にはTechmeme（https://techmeme.com）を利用しました。]]></content:encoded>
+      <enclosure url="https://jun158.github.io/ai-tech-news-podcast/episodes/20261028-ep2.mp3" length="6040357" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://jun158.github.io/ai-tech-news-podcast/episodes/20261028-ep2.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 12:52:33 GMT</pubDate>
+      <itunes:duration>755</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>2026年10月28日号｜専門家の判断はAIに寄る、薬づくりと政府に広がるAI</title>
       <link>https://jun158.github.io/ai-tech-news-podcast/</link>
       <itunes:author>AI &amp; Tech News Podcast</itunes:author>
